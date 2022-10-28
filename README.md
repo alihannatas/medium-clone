@@ -1,9 +1,6 @@
-bootsrap medium clone
 
 
+![](https://i.hizliresim.com/4kj21f5.png)
 
-![](C:\Users\Windows10\Desktop\JavaDenemeler\Alıştırma\Adsız.png)
-
-![](C:\Users\Windows10\Desktop\JavaDenemeler\Alıştırma\Adsız1.png)# medium-clone
 # medium-clone
 # medium-clone
